@@ -148,7 +148,7 @@ class Juego {
     fill(255);
     text("Desarrollado por:", width / 2, height / 2 - 50);
     text("Gimeno Casasco, Aaron - 119041/2", width / 2, height / 2);
-    text("-", width / 2, height / 2 + 50);
+    text("Castagnani, Lucio 118990/7", width / 2, height / 2 + 50);
 
     // Botón  de regresar
     fill(255, 0, 0);
